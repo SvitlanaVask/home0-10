@@ -18,6 +18,8 @@
     "url": "https://github.com/SvitlanaVask/home0-10/issues"
   },
   "dependencies": {
+    "hbs": "^4.2.0",
+    "lodash.debounce": "^4.0.8",
     "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
